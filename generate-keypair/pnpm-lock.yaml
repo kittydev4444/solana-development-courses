@@ -21,6 +21,9 @@ importers:
         specifier: ^5.9.2
         version: 5.9.2
     devDependencies:
+      '@types/node':
+        specifier: ^24.2.0
+        version: 24.2.0
       dotenv:
         specifier: ^17.2.1
         version: 17.2.1
@@ -903,7 +906,7 @@ snapshots:
 
   '@types/connect@3.4.38':
     dependencies:
-      '@types/node': 12.20.55
+      '@types/node': 24.2.0
 
   '@types/node@12.20.55': {}
 
@@ -915,7 +918,7 @@ snapshots:
 
   '@types/ws@7.4.7':
     dependencies:
-      '@types/node': 12.20.55
+      '@types/node': 24.2.0
 
   '@types/ws@8.18.1':
     dependencies:
