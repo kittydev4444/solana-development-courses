@@ -1,0 +1,9 @@
+# Ignore node_modules from all sub-projects
+**/node_modules/
+
+# Ignore build folders from all sub-projects
+**/dist/
+**/build/
+
+# Ignore environment files
+**/.env
